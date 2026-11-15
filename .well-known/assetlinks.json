@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ravontla.twa",
+        "sha256_cert_fingerprints": ["51:6D:51:9B:62:CE:08:66:50:0B:44:8B:5A:8C:E8:A2:AF:5B:F0:C4:F8:F5:F9:65:D8:11:FB:07:96:3B:F8:ED"]
+      }
+    }]
